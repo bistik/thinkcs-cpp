@@ -1,0 +1,3 @@
+what percentage of Y is X?
+  X * 100 / Y
+ example: 59 * 100 / 60 = 98%
